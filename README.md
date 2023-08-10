@@ -14,3 +14,5 @@ Clone the project
 ```bash
   git clone https://github.com/MildDrizzle/parallax-scroll-animation
 ```
+
+Upwork-bid 40, text message 4 ( Varun P : Data extraction, Aske A : Crawling exercise, Depal D : PowerShell Script for Windows Maintenance, Christophe C : Create a swipe game using vue.js )
